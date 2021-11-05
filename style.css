@@ -1,4 +1,5 @@
 .main {
+  margin: auto;
   position: fixed;
   top: 10px;
   max-height: 85px;
@@ -191,7 +192,7 @@ p {
 .content {
   text-align: justify;
   text-align-last: center;
-  padding-left: 300px;
+  padding-left: 17%;
   padding-top: 50px;
   float: left;
   width: 41%;
@@ -234,8 +235,8 @@ p {
 }
 
 .content2 {
-  padding-top: 130px;
-  padding-right: 400px;
+  padding-top: 7%;
+  padding-right: 16%;
   float: right;
   font-family: "Montserrat", sans-serif;
 }
@@ -253,7 +254,7 @@ p {
 }
 
 .content3 {
-  padding-top: 500px;
+  padding-top: 22%;
   font-family: "Montserrat", sans-serif;
   text-align: center;
   color: #f0ff6e;
@@ -417,6 +418,7 @@ p {
   font-weight: 600;
   text-align: justify;
   padding-top: 50px;
+  padding-bottom: 100px;
   padding-right: 300px;
   float: right;
   width: 35%;
